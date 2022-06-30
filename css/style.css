@@ -31,8 +31,16 @@ body {
     font-size: 16px;
     background-color: #fff;
     color: black;
-    font-family: sans-serif; //Ваш шрифт
+    /* font-family: ; //Ваш шрифт */
 }
 body {
     margin: 0;
+}
+.wrapper {
+    margin: auto;
+    max-width: 980px;
+    padding: 10px;
+}
+.content {
+    color: black;
 }
